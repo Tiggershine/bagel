@@ -1,27 +1,53 @@
-# Bagel
+# Bagel(ongoing, 24.11.22 ~)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<span>
+  <img src="https://user-images.githubusercontent.com/48058931/205515625-d708eb7a-1696-4ded-ae25-f3c0a7bfc0e2.png" width="300" height="400">
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/48058931/205515635-7d548453-f367-45c7-b0f6-2db1c668e354.png" width="300" height="400">
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/48058931/205515643-d6d8a8a8-e68a-48ff-acf9-2e16ea9c03cd.png" width="300" height="400">
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/48058931/205515649-3d6ff342-ff9f-40ae-aa36-fa98fe306a79.png" width="300" height="400">
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/48058931/205515657-1b7f4197-8bab-46af-8820-1172cb929d5b.png" width="300" height="400">
+</span>
+<span>
+  <img src="https://user-images.githubusercontent.com/48058931/205515663-bae982d3-3260-438a-bb07-d006dffe70a4.png" width="300" height="400">
+</span>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Overview
 
-## Further help
+It is a project to make bulletin board for RWTH informatik korean student. Our goal is to become a medium through which students not only exchange information about their studies but also communicate more actively with each other through this web.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## App Features
+
+- Course Mapping
+- **CRUD**
+- **Comment**
+- **Login / Signup**
+- **Search**
+- **Category**
+
+## Co-developer
+
+- Hyejin Kang / Minseon Kim / Sundae Kim / Yeosub Shim / Dongyoon Nam
+
+## Technologies
+
+- **Angular, Typescript, NodeJS -** Development
+- **MogoDB** - Database
+- **Github** - Project management
+- **Notion** - Communication
