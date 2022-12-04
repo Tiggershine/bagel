@@ -35,6 +35,7 @@ It is a project to make bulletin board for RWTH informatik korean student. Our g
 ## App Features
 
 - Course Mapping
+- **Responsive UI (Web, Mobile)**
 - **CRUD**
 - **Comment**
 - **Login / Signup**
