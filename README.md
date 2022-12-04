@@ -2,7 +2,7 @@
 
 
 
-
+### Mockup Design (desgined with Figma)
 <span>
   <img src="https://user-images.githubusercontent.com/48058931/205515625-d708eb7a-1696-4ded-ae25-f3c0a7bfc0e2.png" width="300" height="400">
 </span>
